@@ -10,7 +10,7 @@ pkg_name=meme-machene
 
 # Required unless overridden by the `HAB_ORIGIN` environment variable.
 # The origin is used to denote a particular upstream of a package.
-pkg_origin=yourinitials_tryhabitat
+pkg_origin=diamondserge_tryhabitat
 
 # Required.
 # Sets the version of the package
